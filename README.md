@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# s-dVolatilityZones
+# Support and Demand Bands Based on Volatility
 Defines the principal support and resistance levels for the week or the month based on Volatility
 =======
 # Suportes e Resistências baseados em Volatilidade
